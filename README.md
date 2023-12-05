@@ -1,1 +1,2 @@
 # Spotify-Analysis-with-Custom-Visuals
+ The "Spotify Analysis with Power BI" project aims to leverage Power BI, a business analytics tool, to analyze and visualize data from Spotify. The analysis may include trends in user behavior, popular genres, artist insights, and other relevant metrics, providing valuable insights for both music enthusiasts and industry professionals. The project combines the power of Spotify's data with the robust visualization capabilities of Power BI to offer a comprehensive and visually appealing exploration of the music streaming platform's data.
